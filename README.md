@@ -1,5 +1,7 @@
 # Camera Disabler
-Shortcut for iOS and macOS that installs a [configuration](https://github.com/rthomson/isight-disabler/blob/master/camera-disabler.mobileconfig) profile that completely blocks activation of the built-in camera
+Shortcut for iOS and macOS that installs a configuration profile that completely blocks activation of the built-in camera
+
+<sup>(based on https://github.com/rthomson/isight-disabler/blob/master/camera-disabler.mobileconfig)</sup>
 
 [Release 20260512](https://www.icloud.com/shortcuts/9f3aea98730046ecb3d0f2f16ac5ed5b)
 
