@@ -3,7 +3,7 @@ Shortcut for iOS and macOS that installs a configuration profile that completely
 
 <sup>(based on https://github.com/rthomson/isight-disabler/blob/master/camera-disabler.mobileconfig)</sup>
 
-[Release 20260512](https://www.icloud.com/shortcuts/9f3aea98730046ecb3d0f2f16ac5ed5b)
+[Release 20260512](https://www.icloud.com/shortcuts/93ae10a0379b409ba7978b329ec18c82)
 
 <sub>Uninstall:
 <br>
